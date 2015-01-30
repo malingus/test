@@ -5,9 +5,6 @@ import Incapsulation.Base;
 public class Fsse {
 
 	/**
-	 * 
-	 * 
-	 * 
 	 * u7ju76j5t7j7j
 	 * @param args
 	 */
